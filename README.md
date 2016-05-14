@@ -2,7 +2,7 @@
 Workshop GitHub
 
 Edited 05:07 PM
-...**English version**..
+  **English version**  
 README.md -> <markdown> Descricao do projeto
 
 
